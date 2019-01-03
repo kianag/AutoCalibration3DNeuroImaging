@@ -10,6 +10,8 @@ gives a concise summary of the "Automatic Calibration of 3D NeuroImaging" projec
 
 The following [instructional manual](https://docs.google.com/document/d/1OTT_0LJ6XY1uEJGRwLF9KeHkSnfgOSdXvs3AyN3iXWI/edit?usp=sharing) is my documented, step by step work for how to do Automatic Calibration of 3D NeuroImaging. 
 
+For further questions, please email me at gokianago@berkeley.edu.
+
 
 ### Prerequisites
 
